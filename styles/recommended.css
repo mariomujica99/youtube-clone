@@ -1,0 +1,30 @@
+.recommended-bar {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+    top: 56px;
+    left: 72px;
+    right: 10px;
+    padding: 0px 23px 0px 33px;
+    background-color: white;
+    z-index: 50;
+}
+
+.recommendation-all {
+    background-color: black;
+    color: white;
+}
+
+.recommendation,
+.recommendation-all {
+    padding: 6px 12px 6px 12px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
