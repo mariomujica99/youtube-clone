@@ -1,4 +1,4 @@
-# YouTube Clone - Responsive Web Interface
+# YouTube Clone
 
 ## Overview
 
@@ -60,7 +60,7 @@ This project is a clone of YouTube's homepage interface built with HTML and CSS.
 - Video card background changes on hover
 - Clickable links to actual YouTube videos
 
-## Key Learnings & Skills Demonstrated
+## Key Learnings
 
 ### Layout Techniques
 - Flexbox for one-dimensional layouts
