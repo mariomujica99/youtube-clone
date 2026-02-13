@@ -4,9 +4,9 @@
 
 This project is a clone of YouTube's homepage interface built with HTML and CSS. This replicates YouTube's design including the header, sidebar, recommendation bar, and video grid layout.
 
-## Live Demo
+## Demo
 
-[View Website](https://mariomujica99.github.io/youtube-clone/)
+[![Live Demo](https://img.shields.io/badge/Youtube_Clone-FF0000?style=flat-square&logo=youtube)](https://mariomujica99.github.io/youtube-clone/)
 
 ## Features
 
